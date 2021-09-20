@@ -1,6 +1,6 @@
-# Project 2 - *My_Tweeter*
+# Project 2 - *Tweeter_Camilo*
 
-**My_Tweeter** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Tweeter_Camilo** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **5** hours spent in total
 
